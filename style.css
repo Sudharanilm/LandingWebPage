@@ -1,0 +1,296 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main_content {
+    width: 100%;
+    height: 90vh;
+    background-color: cornflowerblue;
+    background-image: url(Image-4-1-1-1-1-1.jpg);
+    position: relative;
+    background-position: top;
+    background-size: cover;
+}
+
+.content {
+    text-align: left;
+    padding-top: 12rem;
+    padding-left: 8rem;
+    color: #fff;
+}
+
+.content h1 {
+    font-size: 60px;
+    line-height: 4.2rem;
+}
+
+.content p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: ;
+}
+
+.navbar-nav {
+    margin-left: 3rem;
+}
+
+.nav-item a {
+    margin-left: 1.5rem;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.nav-item a:hover {
+    text-decoration: underline;
+    color: #fb491a;
+}
+
+.button_1 {
+    color: white;
+    font-size: 20px;
+    background: #fb491a;
+    padding: 18px 55px;
+    margin-left: 12rem;
+    margin-top: 15px;
+    border: #fb491a;
+}
+
+.main_content_2 {
+    height: 50vh;
+    margin-top: 18rem;
+    text-align: center;
+    font-weight: 400;
+    font-size: 2.5rem;
+}
+
+.main_content_2 h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+
+.main_content_2 p {
+    /* padding-top: 3px; */
+    line-height: 24px;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #6b6b6b;
+}
+
+.main_content_3 {
+    width: 50%;
+    justify-content: center;
+}
+
+.content_1 {
+    padding-left: 8rem;
+    width: 40%;
+}
+
+.heading_1 {
+    color: #fb491a;
+}
+
+.content_1,
+span,
+p {
+    font-size: 14px;
+}
+
+.images {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    background-size: cover;
+}
+
+.images img {
+    width: 70%;
+    padding-top: 4rem;
+}
+
+.d-flex {
+    align-items: center;
+    justify-content: space-around;
+    border: 2px solid #fff;
+}
+
+.prior_criminal {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 6rem;
+}
+
+.case_results {
+    display: flex;
+    justify-content: space-around;
+}
+
+.case_results span {
+    margin-top: 3rem;
+}
+
+.client_content {
+    background-color: #fb491a;
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    width: 80%;
+    height: 50vh;
+}
+
+.client_img_content {
+    display: flex;
+    width: 100%;
+}
+
+.client_img img {
+    height: 50vh;
+}
+
+.client_img {
+    width: 30%;
+}
+
+.client_content {
+    text-align: left;
+    padding: 6rem;
+}
+
+.client_content p {
+    font-size: 22px;
+    font-weight: 300;
+}
+
+.client_Tim {
+    font-size: 22px;
+}
+
+.client_ceo p {
+    font-size: 12px;
+}
+
+.icons_content {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.icons_content span {
+    width: 28%;
+}
+
+.main_content_4 {
+    background: #fff;
+}
+
+.main_content_4 h1 {
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    font-size: 55px;
+    font-weight: 650;
+    margin-left: 9rem;
+}
+
+.main_content_5 {
+    justify-content: center;
+    align-items: center;
+}
+
+.main_content_5 h1 {
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 650;
+}
+
+.main_content_5 p {
+    margin-left: 8.2rem;
+    font-size: medium;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.main_content_6 {
+    height: 40vh;
+    width: 100%;
+    background: #fff;
+}
+
+.main_content_6 h1 {
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 650;
+}
+
+.main_content_6 p {
+    font-size: medium;
+    font-weight: 400;
+    line-height: 1.5rem;
+    margin-left: 2.3rem;
+    padding-left: 4rem;
+}
+
+.main_content_7 h1 {
+    text-align: center;
+    padding-top: 5rem;
+    margin-bottom: 4rem;
+}
+
+.legal_service {
+    display: flex;
+    width: 70%;
+    background: #4abdac;
+}
+
+.criminal_img img {
+    width: 49.8rem;
+    height: 55vh;
+    margin-left: 5.7rem;
+}
+
+.Serviecs {
+    margin-top: 5rem;
+    color: #fff;
+    margin-left: 3rem;
+}
+
+.Serviecs button {
+    margin: 2rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border: #fff solid;
+    font-size: 20px;
+    color: #4abdac;
+}
+
+.icons_right_left {
+    background: #fb491a;
+    color: #fff;
+    width: 10%;
+    padding-left: 0.5rem;
+}
+
+.icons_right_left svg {
+    color: white;
+}
+
+.Links {
+    display: flex;
+}
+
+.Footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 4rem;
+    padding: 5rem;
+    margin-right: 5rem;
+}
